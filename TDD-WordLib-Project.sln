@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD-WordLib-Project", "TDD-WordLib-Project\TDD-WordLib-Project.csproj", "{04D242D1-B705-4F21-B8A5-64C2FAEF1C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D242D1-B705-4F21-B8A5-64C2FAEF1C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D242D1-B705-4F21-B8A5-64C2FAEF1C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D242D1-B705-4F21-B8A5-64C2FAEF1C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D242D1-B705-4F21-B8A5-64C2FAEF1C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CC427FE-5DB6-4B10-9938-C2515E3EF621}
+	EndGlobalSection
+EndGlobal
